@@ -25,7 +25,14 @@ Este projeto é uma aplicação web interativa desenvolvida com **Streamlit** qu
 ### 2. **Clonar o Repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/manipulador-pdfs-streamlit.git
-cd manipulador-pdfs-streamlit
+git clone https://github.com/vbertotto/ilovepdf_streamlit.git
+cd ilovepdf_streamlit
+```
 
 ## Redes sociais
+Para mais informações ou perguntas, entre em contato:
+
+- **LinkedIn**: [Vinicius Bertotto](https://www.linkedin.com/in/vinicius-bertotto/)
+- **GitHub**: [vbertotto](https://github.com/vbertotto)
+- **Website**: [bertotto.online](https://bertotto.online/)
+```
