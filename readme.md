@@ -1,7 +1,5 @@
 # Manipulador de PDFs com Streamlit e PyPDF
 
-![Banner do Projeto](banner.png) <!-- Substitua com um banner relevante se disponível -->
-
 ## 📄 Descrição
 
 Este projeto é uma aplicação web interativa desenvolvida com **Streamlit** que permite a manipulação de arquivos PDF utilizando a biblioteca **PyPDF**. Com uma interface amigável, usuários podem realizar diversas operações em PDFs sem a necessidade de conhecimentos avançados em programação.
